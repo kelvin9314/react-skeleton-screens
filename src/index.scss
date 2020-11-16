@@ -13,8 +13,12 @@ code {
 }
 
 header {
+  // width: 100%;
   background: #1e65ff;
   padding: 10px;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 50%;
 
   & h1 {
     color: white;
@@ -32,8 +36,8 @@ h2 {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 2%;
   display: grid;
   grid-template-columns: 2fr 1fr;
-  gap: 100px;
+  gap: 5%;
 }
