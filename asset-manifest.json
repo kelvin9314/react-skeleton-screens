@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kelvin9314/react-skeleton-screens/static/css/main.284e1f9a.chunk.css",
+    "main.js": "/kelvin9314/react-skeleton-screens/static/js/main.46e1074b.chunk.js",
+    "main.js.map": "/kelvin9314/react-skeleton-screens/static/js/main.46e1074b.chunk.js.map",
+    "runtime-main.js": "/kelvin9314/react-skeleton-screens/static/js/runtime-main.06703750.js",
+    "runtime-main.js.map": "/kelvin9314/react-skeleton-screens/static/js/runtime-main.06703750.js.map",
+    "static/js/2.73eeda34.chunk.js": "/kelvin9314/react-skeleton-screens/static/js/2.73eeda34.chunk.js",
+    "static/js/2.73eeda34.chunk.js.map": "/kelvin9314/react-skeleton-screens/static/js/2.73eeda34.chunk.js.map",
+    "static/js/3.ffd1778e.chunk.js": "/kelvin9314/react-skeleton-screens/static/js/3.ffd1778e.chunk.js",
+    "static/js/3.ffd1778e.chunk.js.map": "/kelvin9314/react-skeleton-screens/static/js/3.ffd1778e.chunk.js.map",
+    "index.html": "/kelvin9314/react-skeleton-screens/index.html",
+    "static/css/main.284e1f9a.chunk.css.map": "/kelvin9314/react-skeleton-screens/static/css/main.284e1f9a.chunk.css.map",
+    "static/js/2.73eeda34.chunk.js.LICENSE.txt": "/kelvin9314/react-skeleton-screens/static/js/2.73eeda34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06703750.js",
+    "static/js/2.73eeda34.chunk.js",
+    "static/css/main.284e1f9a.chunk.css",
+    "static/js/main.46e1074b.chunk.js"
+  ]
+}
