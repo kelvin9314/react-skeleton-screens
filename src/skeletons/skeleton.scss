@@ -26,7 +26,20 @@
 
 .skeleton-wrapper{
   margin: 20px auto;
-  padding: 10px 15px
+  padding: 10px 15px;
+  border-radius: 4px;
+
+  &.light {
+    background: #f2f2f2;
+  }
+  &.dark {
+    background: #444;
+
+    &.skeleton {
+      background: #777;
+    }
+  }
+  
 }
 
 .skeleton-profile{
