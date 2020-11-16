@@ -1,4 +1,5 @@
 import SkeletonElement from './SkeletonElement'
+
 const SkeletonArticle = () => {
   return (
     <div className="skeleton-wrapper">
